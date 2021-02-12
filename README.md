@@ -1,5 +1,5 @@
 # MiraiChat
-**MiraiChat**是一个**[MCDReforged](https://github.com/Fallen-Breath/MCDReforged)**插件,通过使用**[Mirai](https://github.com/mamoe/miral)**框架来连接**Minecraft**和**QQ**
+**MiraiChat**是一个[**MCDReforged**](https://github.com/Fallen-Breath/MCDReforged)插件,通过使用[**Mirai**](https://github.com/mamoe/miral)框架来连接**Minecraft**和**QQ**
 
 > 注意:本插件只能运行于**MCDR v1.x**,**并不兼容 MCDR v0.x!**
 
